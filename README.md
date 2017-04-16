@@ -1,1 +1,1 @@
-# DSB17_3d_lung_nodule_classifier
+## DSB17 3d lung nodule classifier
