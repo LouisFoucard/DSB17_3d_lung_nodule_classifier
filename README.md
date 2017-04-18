@@ -2,4 +2,4 @@
 
 3d convnet for the classification of nodules/tumor in lung CT scans. Trained on Luna16 for Kaggle's 2017 data science bowl competition (result in top 5%) 
 
-<img src="https://github.com/LouisFoucard/DSB17_3d_lung_nodule_classifier/blob/master/data/ezgif-1-65620bd01e.gif" height="100">
+<img src="https://github.com/LouisFoucard/DSB17_3d_lung_nodule_classifier/blob/master/data/ezgif-1-65620bd01e.gif" height="500">
